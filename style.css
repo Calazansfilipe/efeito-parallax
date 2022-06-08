@@ -83,12 +83,12 @@ section.fundo-img > p {
 }
 
 section.fundo-img#img01 {
-    background-image: url('imagens/paisagem1.jpg');
+    background-image: url('imagens/bike3.jpg');
     background-size: cover;
 }
 
 section.fundo-img#img02 {
-    background-image: url('imagens/paisagem3.jpg');
+    background-image: url('imagens/bike2.jpg');
     background-size: cover;
 }
 
